@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "396650962585",
+    "firebase_url": "https://banco-geral-412b6-default-rtdb.firebaseio.com",
+    "project_id": "banco-geral-412b6",
+    "storage_bucket": "banco-geral-412b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396650962585:android:0867f930df33bb1bce2208",
+        "android_client_info": {
+          "package_name": "com.dlwalt.cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396650962585-adt0o7c66qihtlks16icrnbl6itb9rln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dlwalt.cliente",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "396650962585-flh03dujo8ceg2vehhca9c6010inckgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dlwalt.cliente",
+            "certificate_hash": "9ee4d7f0fb878e31409e22932c970c16ee0ff3b7"
+          }
+        },
+        {
+          "client_id": "396650962585-dpskoqf8fgjtfo3r3qfi80eps85q9bma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbmCESZxlmeN0rA4CTLds4qb5VVPINNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396650962585-dpskoqf8fgjtfo3r3qfi80eps85q9bma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396650962585:android:ff74d1388a4c96e0ce2208",
+        "android_client_info": {
+          "package_name": "com.dlwalt.equipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396650962585-75nnamu4jo4nst34ke7up459no74hupi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dlwalt.equipe",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "396650962585-hcq9k5nmn366cfjhi0qlrceiqm5lii96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dlwalt.equipe",
+            "certificate_hash": "c99df1cff07413586b5319064b9a66adce40db46"
+          }
+        },
+        {
+          "client_id": "396650962585-dpskoqf8fgjtfo3r3qfi80eps85q9bma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbmCESZxlmeN0rA4CTLds4qb5VVPINNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396650962585-dpskoqf8fgjtfo3r3qfi80eps85q9bma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396650962585:android:ad6f44778d605dface2208",
+        "android_client_info": {
+          "package_name": "com.dlwalt.prospectmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396650962585-dpskoqf8fgjtfo3r3qfi80eps85q9bma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbmCESZxlmeN0rA4CTLds4qb5VVPINNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396650962585-dpskoqf8fgjtfo3r3qfi80eps85q9bma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396650962585:android:44cde0494c2f0b14ce2208",
+        "android_client_info": {
+          "package_name": "com.dwalt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396650962585-dpskoqf8fgjtfo3r3qfi80eps85q9bma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbmCESZxlmeN0rA4CTLds4qb5VVPINNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396650962585-dpskoqf8fgjtfo3r3qfi80eps85q9bma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
