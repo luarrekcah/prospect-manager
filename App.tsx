@@ -46,6 +46,7 @@ const App = () => {
         username: id,
         contact,
         validUntil: valid,
+        lockedAcess: false,
       },
     });
     setModalVisible(false);
@@ -102,7 +103,7 @@ const App = () => {
           {data !== null ? (
             data.map(item => {
               return (
-                <View style={styles.row} key={item.key}>
+                <View style={[styles.row, {marginTop: 10}]} key={item.key}>
                   <View>
                     <Text style={styles.username}>{item.data.username}</Text>
                     <Text style={styles.text}>{item.key}</Text>
